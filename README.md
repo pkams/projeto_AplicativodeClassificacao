@@ -5,4 +5,4 @@
 \n  Deploy feito no Heroku.
 
 \nAplicativo no Heroku: http://aplicativodeclassificacao.herokuapp.com/
-\nLinkedin: https://www.linkedin.com/in/souzapatrick/
+/nLinkedin: https://www.linkedin.com/in/souzapatrick/
